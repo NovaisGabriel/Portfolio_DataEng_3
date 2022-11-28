@@ -4,3 +4,4 @@
 .terraform.lock.hcl
 lambda_function_payload.zip
 airflow_variables.json
+gabriel-teste.pem
