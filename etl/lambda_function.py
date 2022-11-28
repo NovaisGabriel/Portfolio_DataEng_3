@@ -33,7 +33,7 @@ def handler(event, context):
                     'Ec2KeyName': 'gabriel-teste',
                     'KeepJobFlowAliveWhenNoSteps': True,
                     'TerminationProtected': False,
-                    'Ec2SubnetId': 'subnet-1df20360'
+                    'Ec2SubnetId': 'subnet-08cd5163f5f91872e'
                 },
 
                 Applications=[
